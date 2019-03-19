@@ -1,2 +1,0 @@
-# zoomSite
-Created with CodeSandbox
